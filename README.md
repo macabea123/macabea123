@@ -1,16 +1,13 @@
-### Hi there 👋
+### Eae meus manos 💙
 
-<!--
-**macabea123/macabea123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Macabea e é só isso que você precisa saber
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura]
+- Estou aprendendo a linguagem JavaScript
+- Utilizo esse espaço para me organizar e compartilhar projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você quer entrar emcontato comigo 📫
+
+  almeidinharaissas@gmail.com
+
+![](https://media1.tenor.com/m/YlM9cnO1Q_8AAAAC/dazai-dazai-osamu.gif)
