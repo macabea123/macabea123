@@ -1,6 +1,6 @@
 ### Eae meus manos 💙
 
-Meu nome é Macabea e é só isso que você precisa saber
+Meu nome é Raissa e é só isso que você precisa saber
 
 - Estou estudando no [Alura]
 - Estou aprendendo a linguagem JavaScript
